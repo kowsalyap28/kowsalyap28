@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi! I'm KOWSALYA P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Enthusiast%20%7C%20Continuous%20Learner&descAlignY=58&descAlign=50" />
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi! I'm KOWSALYA P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Enthusiast%20%7C%20Continuous%20Learner&descAlignY=58&descAlign=50"/>
+  
 </p>
 
 <p align="center">
@@ -12,6 +13,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=kowsalyap28&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
+
 # 💫 About Me:
 🎓 AI & Data Science Undergraduate @ BIT'29<br>🐍 Python Developer & Machine Learning Enthusiast<br>🧠 Exploring Artificial Intelligence and NLP<br>📊 Building skills in Data Analytics and Intelligent Systems<br>🚀 Lifelong Learner passionate about technology and innovation
 
