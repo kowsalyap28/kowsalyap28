@@ -14,6 +14,7 @@
 </div>
 <hr>
 # 💫 About Me:
+<br>
 🎓 AI & Data Science Undergraduate @ BIT'29<br>🐍 Python Developer & Machine Learning Enthusiast<br>🧠 Exploring Artificial Intelligence and NLP<br>📊 Building skills in Data Analytics and Intelligent Systems<br>🚀 Lifelong Learner passionate about technology and innovation
 
 
