@@ -1,7 +1,7 @@
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi! I'm KOWSALYA P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Enthusiast%20%7C%20Continuous%20Learner&descAlignY=58&descAlign=50"/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I'm%20KOWSALYA%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ML%20Enthusiast%20%7C%20Continuous%20Learner&descAlignY=58&descAlign=50&color=gradient&customColorList=24" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+My+Profile!;I'm+KOWSALYA;ML+Enthusiast;Continuous+Learner" alt="Typing SVG" />
