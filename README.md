@@ -6,8 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+My+Profile!;I'm+KOWSALYA;ML+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 </p>
 
-
-
+<div align="center">
+  <a href="https://github.com/kowsalyap28">
+    <img src="https://img.shields.io/github/followers/kowsalyap28?style=for-the-badge&logo=github&color=7C3AED&labelColor=0D1117" alt="GitHub Followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kowsalyap28&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views">
+</div>
 # 💫 About Me:
 🎓 AI & Data Science Undergraduate @ BIT'29<br>🐍 Python Developer & Machine Learning Enthusiast<br>🧠 Exploring Artificial Intelligence and NLP<br>📊 Building skills in Data Analytics and Intelligent Systems<br>🚀 Lifelong Learner passionate about technology and innovation
 
@@ -23,10 +27,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kowsalyap28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<div align="center">
-  <a href="https://github.com/kowsalyap28">
-    <img src="https://img.shields.io/github/followers/kowsalyap28?style=for-the-badge&logo=github&color=7C3AED&labelColor=0D1117" alt="GitHub Followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kowsalyap28&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views">
-</div>
 
